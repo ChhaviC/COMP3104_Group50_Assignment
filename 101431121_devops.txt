@@ -1,0 +1,2 @@
+The course includes the analysis and evaluation of various DevOps implementations and offers hands-on experience using industry-standard toolkits. 
+Students (us) will create solutions to complex business challenges by adhering to the core responsibilities of DevOps.
