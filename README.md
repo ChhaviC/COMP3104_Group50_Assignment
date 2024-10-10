@@ -1,7 +1,7 @@
 # COMP3104_Group50_Assignment 
 # Group members:
--**Member 2:** Daria Ignateva(101431121) - [GitHub](https://github.com/dorpanz)
--**Member 3:** Liubov Uchamprina(101445260) - [GitHub](https://github.com/LiubovUch)
+- **Member 2:** Daria Ignateva(101431121) - [GitHub](https://github.com/dorpanz)
+- **Member 3:** Liubov Uchamprina(101445260) - [GitHub](https://github.com/LiubovUch)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
