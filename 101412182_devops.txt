@@ -1,0 +1,5 @@
+In this course, students will explore the procedures, protocols, 
+and best practices a DevOps engineer applies to enhance workplace productivity.
+They will analyze and assess various DevOps implementations and engage in hands-on activities 
+with industry-standard toolkits. By following the core principles of DevOps, 
+students will develop solutions to tackle complex business challenges.
