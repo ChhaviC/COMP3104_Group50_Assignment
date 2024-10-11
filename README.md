@@ -1,5 +1,6 @@
 # COMP3104_Group50_Assignment 
 # Group members:
+- **Leader:** Chhavi Chhabra (101412182) - [GitHub](https://github.com/ChhavC)
 - **Member 2:** Daria Ignateva(101431121) - [GitHub](https://github.com/dorpanz)
 - **Member 3:** Liubov Uchamprina(101445260) - [GitHub](https://github.com/LiubovUch)
 
