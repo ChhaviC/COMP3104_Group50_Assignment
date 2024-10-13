@@ -1,3 +1,10 @@
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. in detail, the SDLC methodology focuses on the following phases of software development:
+- Requirement analysis
+- Planning
+- Software design such as architectural design
+- Software development
+- Testing
+- Deployment
 Mastering DevOps is essential in the software development process as it promotes seamless collaboration between development and operations teams, improving both communication and efficiency. 
 Through continuous integration and continuous delivery (CI/CD), teams can automate processes, streamline deployment, and elevate software quality. 
 DevOps also focuses on constant monitoring and feedback, allowing teams to swiftly detect and fix issues, resulting in more dependable software. 
